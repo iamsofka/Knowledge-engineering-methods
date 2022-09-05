@@ -1,0 +1,11 @@
+['C:\\Users\\perel\\Desktop\\db.pl'].
+
+current_room.
+
+go_into(hall).
+
+get_things(hall).
+
+add_thing(hall, pills).
+
+remove_thing(hall, pills).
